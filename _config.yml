@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://coder-kk.github.io
+name: coderkk
+author: coderkk
+qq: 807522215
+email: zhangwk6@outlook.com
+
+duoshuo: coder-kk
+beian: 
+cnzz: 
+weibo: 
+github: yourID
+about: "这里是我的个人博客，创建于2018年5月13日。"
+
+safe: true
+paginate: 20
